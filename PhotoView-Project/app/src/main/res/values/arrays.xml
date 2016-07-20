@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_names">
+        <item>简单使用PhotoView</item>
+        <item>在ViewPaper中使用PhotoView</item>
+        <item>使用PhotoView旋转图片</item>
+        <item>在Picasso中使用PhotoView</item>
+        <item>在RecyclerView中使用PhotoView查看图片</item>
+    </string-array>
+</resources>
