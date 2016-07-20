@@ -7,29 +7,29 @@
 
 首页
 
-![](https://github.com/DoubleDa/PhotoView-Study-Analyse-Project/blob/master/images/img1.jpg?raw=true =x500)
+![](https://github.com/DoubleDa/PhotoView-Study-Analyse-Project/blob/master/images/img1.jpg?raw=true =x240)
 
 简单使用PhotoView
 
-![](https://github.com/DoubleDa/PhotoView-Study-Analyse-Project/blob/master/images/img2.jpg?raw=true =x500)
+![](https://github.com/DoubleDa/PhotoView-Study-Analyse-Project/blob/master/images/img2.jpg?raw=true =x240)
 
 在ViewPager中使用PhotoView
 
-![](https://github.com/DoubleDa/PhotoView-Study-Analyse-Project/blob/master/images/img5.jpg?raw=true =x500)
+![](https://github.com/DoubleDa/PhotoView-Study-Analyse-Project/blob/master/images/img5.jpg?raw=true =x240)
 
 使用PhotoView旋转图片
 
-![](https://github.com/DoubleDa/PhotoView-Study-Analyse-Project/blob/master/images/img3.jpg?raw=true =x500)
+![](https://github.com/DoubleDa/PhotoView-Study-Analyse-Project/blob/master/images/img3.jpg?raw=true =x240)
 
 使用Picasso加载PhotoView
 
-![](https://github.com/DoubleDa/PhotoView-Study-Analyse-Project/blob/master/images/img6.jpg?raw=true =x500)
+![](https://github.com/DoubleDa/PhotoView-Study-Analyse-Project/blob/master/images/img6.jpg?raw=true =x240)
 
 在RecyclerView中使用PhotoView
 
-![](https://github.com/DoubleDa/PhotoView-Study-Analyse-Project/blob/master/images/img4.jpg?raw=true =x500)
+![](https://github.com/DoubleDa/PhotoView-Study-Analyse-Project/blob/master/images/img4.jpg?raw=true =x240)
 
-![](https://github.com/DoubleDa/PhotoView-Study-Analyse-Project/blob/master/images/img7.jpg?raw=true =x500)
+![](https://github.com/DoubleDa/PhotoView-Study-Analyse-Project/blob/master/images/img7.jpg?raw=true =x240)
 
 * 使用到的开源库
 
